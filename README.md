@@ -228,8 +228,6 @@ filebeat-config.yml  metricbeat-config.yml
 Update the files and run.
 
 Output:
-![Kibana Output](https://user-images.githubusercontent.com/105895908/169713605-4e871003-0218-4465-8772-81927eb32b91.jpg)
-
 **In addition some of the commands used in this project**
 
 $ ssh-keygen
