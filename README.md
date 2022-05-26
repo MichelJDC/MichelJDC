@@ -188,11 +188,6 @@ Answer the following questions to fill in the blanks:
 
    root@4413dd57dd1b:/etc/ansible# ansible-playbook filebeat-playbook.yml
  
-- Which URL do you navigate to in order to check that the ELK server is running?
-
-    http://13.77.56.196:5601/app/kibana
- 
- 
 _As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc.
 
 SSH into Jumpbox VM (20.92.106.64)
